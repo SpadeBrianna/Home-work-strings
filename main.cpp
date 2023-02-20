@@ -79,6 +79,7 @@ using namespace std;
 }
 */
 
+//#14
 int main(){
     string text;
     std::getline(std::cin,text);
